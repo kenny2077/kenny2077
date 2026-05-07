@@ -70,7 +70,3 @@ I build AI systems that are local-first, inspectable, and safer to run in the re
 - **Interpretability tools** - Small experiments that make model behavior easier to inspect and explain.
 - **Safer agents** - Guardrails, audit trails, and evaluation loops for tool-using AI systems.
 - **Research engineering** - Practical bridges between papers, notebooks, benchmarks, and usable software.
-
-## GitHub Activity
-
-![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenny2077&show_icons=true&hide_title=true&hide_border=true)
