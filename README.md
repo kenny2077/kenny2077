@@ -21,7 +21,7 @@ I build AI systems that are local-first, inspectable, and safer to run in the re
 - ⚙️ **[aegis-agent-runtime](https://github.com/kenny2077/aegis-agent-runtime)** - Runtime SDK and control plane for governed AI agent execution with approvals, policy, auth, and audit logs.
 - 🧠 **[openclaw-memory-skills](https://github.com/kenny2077/openclaw-memory-skills)** - Durable memory and external-memory import skills for agent workflows.
 - 🧪 **[CPP-Predictions](https://github.com/kenny2077/CPP-Predictions)** - AI-driven drug discovery research focused on cyclic peptide permeability prediction.
-- 🤖 **[Arena-Robot-Simulation](https://github.com/kenny2077/Arena-Robot-Simulation)** - C++ robotics simulation project for arena-style autonomous behavior.
+- 🧪 **[ChemAI](https://github.com/kenny2077/ChemAI)** - Unity VR chemistry lab for Meta Quest 3 with a voice-first AI assistant, free-order experiments, and safety-aware lab guidance.
 
 ## Planned AI Projects
 
@@ -61,7 +61,7 @@ I build AI systems that are local-first, inspectable, and safer to run in the re
 ### Research & Simulation
 
 - 🧪 **CPP-Predictions** - ML research for cyclic peptide permeability.
-- 🤖 **Arena-Robot-Simulation** - Robotics simulation and control systems.
+- 🧪 **ChemAI** - VR chemistry lab simulation with spoken AI guidance and interactive experiments.
 - 🔬 **tiny-interp-lab** - Planned interpretability experiments.
 
 ## What I'm Building Toward
