@@ -19,13 +19,13 @@ I build local-first AI infrastructure, agent safety tools, and research systems 
 
 ## Current Projects
 
-- 🛰️ **[Aurora](https://github.com/kenny2077/Aurora)** - Daily AI learning radar that turns papers, GitHub repositories, and timely tech news into a practical local or GitHub Actions learning path.
+- 🛰️ **[Aurora](https://github.com/kenny2077/Aurora)** - Daily learning radar for AI builders, researchers, and students that combines papers, repo recommendations, and high-engagement tech news into one actionable digest.
 - 🎨 **[TraceCanvas](https://github.com/kenny2077/TraceCanvas)** - Agentic HTML editor where local coding agents generate source-grounded, design-system-driven HTML with export workflows.
 - 🌊 **[RippleGraph](https://github.com/kenny2077/RippleGraph)** - Local-first impact analysis that briefs Claude Code and Codex on edit risk before they change files.
 - 🛡️ **[TraceGate](https://github.com/kenny2077/TraceGate)** - Runtime firewall for AI coding agents that intercepts MCP tool calls, enforces YAML policies, redacts secrets, and writes audit logs.
 - ⚙️ **[Aegis](https://github.com/kenny2077/Aegis)** - Runtime SDK and control plane for governed AI agent execution with approvals, policy, auth, and auditability.
-- 🧰 **[AgentCI-Guard](https://github.com/kenny2077/AgentCI-Guard)** - Rust static analysis engine for LLM and AI-agent risks in GitHub Actions workflows, including cross-job taint chains and SARIF output.
-- 🧭 **[PromptHarness](https://github.com/kenny2077/PromptHarness)** - Context-aware prompt router that helps solo developers steer AI coding agents through planning, implementation, debugging, review, and release.
+- 🧰 **[AgentCI Guard](https://github.com/kenny2077/AgentCI-Guard)** - Rust security scanner for AI-integrated GitHub Actions that detects cross-step and cross-job LLM taint chains, privileged sinks, and SARIF-ready findings.
+- 🧭 **[PromptHarness](https://github.com/kenny2077/PromptHarness)** - Repo-aware prompt router that inspects git churn, test status, source files, and project state to recommend the right AI-agent workflow prompt.
 - 🛡️ **[PromptGuard](https://github.com/kenny2077/PromptGuard)** - TypeScript app for detecting vague, unsafe, and privacy-risky prompts before they reach an AI model.
 - 🧪 **[CPP-Predictions](https://github.com/kenny2077/CPP-Predictions)** - AI-driven drug discovery research focused on cyclic peptide permeability prediction.
 - 🥽 **[ChemAI](https://github.com/kenny2077/ChemAI)** - Unity VR chemistry lab for Meta Quest 3 with a voice-first AI assistant and safety-aware lab guidance.
@@ -42,19 +42,19 @@ I build local-first AI infrastructure, agent safety tools, and research systems 
 ### Agent Safety & Governance
 
 - 🛡️ **TraceGate** - Runtime MCP firewall with policy enforcement, DLP, approvals, and audit trails.
-- 🧰 **AgentCI-Guard** - CI/CD scanner for AI-agent workflow risks and cross-step taint propagation.
+- 🧰 **AgentCI Guard** - Specialized CI/CD scanner for AI-agent workflows, cross-job dataflow, and LLM-to-privileged-sink risks.
 - ⚙️ **Aegis** - Governed agent runtime SDK and control plane.
 - 🛡️ **PromptGuard** - Prompt inspection and safety checks for AI applications.
 
 ### Local Agent Infrastructure
 
 - 🌊 **RippleGraph** - Local code graph and edit-risk briefings for AI coding agents.
-- 🧭 **PromptHarness** - Repo-aware prompt selection for coding-agent workflows.
+- 🧭 **PromptHarness** - Smart prompt recommendations, workflow routing, and `.agent/` session artifacts for coding-agent projects.
 - 🎨 **TraceCanvas** - Design-system-backed HTML generation and export tooling for local agents.
 
 ### Research, Learning & Simulation
 
-- 🛰️ **Aurora** - Daily learning radar for AI papers, repositories, and technology news.
+- 🛰️ **Aurora** - Unified daily digest across AI papers, repository learning, and timely technology news.
 - 🧪 **CPP-Predictions** - ML research for cyclic peptide permeability.
 - 🥽 **ChemAI** - VR chemistry lab simulation with spoken AI guidance and interactive experiments.
 
