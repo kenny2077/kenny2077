@@ -1,42 +1,56 @@
-<div align="center">
+# Hi, I'm Kenny
 
-# Kenny Guo
+I build local-first AI infrastructure, agent safety tools, and research systems that are inspectable, reproducible, and useful outside a demo.
 
-**Research engineer and computer science student building local-first AI systems, developer tools, and reproducible ML infrastructure.**
+**Local-first AI** | **Coding agents** | **Developer tooling** | **Machine learning** | **Research engineering**
 
-I build practical software for AI systems that need to be inspectable, privacy-conscious, and reliable beyond the demo.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-[Email](mailto:guokenny7@gmail.com) · [Public repositories](https://github.com/kenny2077?tab=repositories&type=public)
+> Small, testable tools for understanding, steering, and evaluating AI systems.
 
-</div>
+📫 **Contact:** [guokenny7@gmail.com](mailto:guokenny7@gmail.com)
 
----
+## Current Projects
 
-## Selected Public Projects
+- 🛰️ **[Aurora](https://github.com/kenny2077/Aurora)** — Self-hosted daily learning radar that turns technology news, active repositories, and research papers into a focused email and GitHub Pages digest.
+- 🔎 **[PrivateLens](https://github.com/kenny2077/PrivateLens)** — Local-first search layer for photo folders that combines CLIP, OCR, metadata, paths, dates, and image hashes without modifying the original files.
+- 📦 **[TraceBox](https://github.com/kenny2077/TraceBox)** — Private flight recorder for AI coding agents that captures tool calls, file changes, policy decisions, and network activity in a local SQLite ledger.
+- 🌊 **[RippleGraph](https://github.com/kenny2077/RippleGraph)** — Deterministic edit-risk analysis that briefs Claude Code and Codex on affected callers and tests before they modify TypeScript or JavaScript files.
+- 🧪 **[CPP-Predictions](https://github.com/kenny2077/CPP-Predictions)** — Machine-learning research comparing Transformer, CNN, GCN, and Graphormer approaches for cyclic peptide permeability prediction.
 
-These repositories best represent my current engineering and research work.
+## Recent Focus
 
-| Project | What it does | Core stack |
-| --- | --- | --- |
-| **[Aurora](https://github.com/kenny2077/Aurora)** | Self-hosted daily learning radar that turns technology news, active repositories, and research papers into a focused email and GitHub Pages digest. Includes source-health tracking, deterministic fallbacks, scheduled workflows, and replay-based quality evaluation. | Python, Pydantic, GitHub Actions, Astro |
-| **[PrivateLens](https://github.com/kenny2077/PrivateLens)** | Local-first search layer for photo folders users already own. Combines CLIP similarity, OCR, metadata, paths, dates, and image hashes while keeping originals untouched and results explainable. | Python, FastAPI, SQLite, OpenCLIP, OCR, Docker |
-| **[TraceBox](https://github.com/kenny2077/TraceBox)** | Private flight recorder for AI coding agents that captures tool calls, file changes, policy decisions, and network destinations in a local SQLite ledger, with secret redaction, risk summaries, rollback planning, and exports. | Python, MCP, SQLite, FastAPI, OpenTelemetry |
-| **[RippleGraph](https://github.com/kenny2077/RippleGraph)** | Deterministic edit-risk analysis for Claude Code and Codex. Builds a local code graph for TypeScript and JavaScript projects, then recommends affected callers and tests before an agent edits a file. | TypeScript, Node.js, SQLite, tree-sitter, Vitest |
-| **[CPP-Predictions](https://github.com/kenny2077/CPP-Predictions)** | Research code comparing Transformer, CNN, GCN, and Graphormer approaches for cyclic peptide permeability prediction, including classification and regression workflows. | Python, PyTorch, Scikit-learn, RDKit, CUDA |
+- **Local-first AI systems** — Private inference, offline-capable workflows, user-owned data, and deterministic fallbacks.
+- **Agent observability and safety** — Audit trails, policy decisions, secret redaction, rollback planning, and edit-risk analysis.
+- **Reproducible software** — Strong test suites, release gates, GitHub Actions, health checks, and evidence-backed evaluation.
+- **Research engineering** — Practical bridges between datasets, experiments, benchmarks, and usable software.
 
-## Engineering Focus
+## Project Map
 
-- **Local-first AI:** private inference, offline-capable workflows, and user-owned data.
-- **AI agent infrastructure:** observability, policy controls, static analysis, and safer tool execution.
-- **Reproducible research:** auditable pipelines, deterministic fallbacks, evaluation harnesses, and strong CI.
-- **Developer experience:** small, composable tools with clear diagnostics and practical command-line interfaces.
+### Local-First AI
 
-## Technical Toolkit
+- 🔎 **PrivateLens** — Explainable, private photo search over folders users already own.
+- 📦 **TraceBox** — Local session recording, inspection, policy enforcement, and rollback planning for coding agents.
 
-`Python` · `TypeScript` · `PyTorch` · `FastAPI` · `SQLite` · `Node.js` · `GitHub Actions` · `Docker` · `Linux`
+### Agent & Developer Infrastructure
 
----
+- 🌊 **RippleGraph** — Static-analysis-powered edit-risk briefings for Claude Code and Codex.
+- 📦 **TraceBox** — Cross-agent audit trails and structured exports without cloud telemetry.
 
-<p align="center">
-  Building software that makes AI systems easier to inspect, evaluate, and trust.
-</p>
+### Research & Learning Systems
+
+- 🛰️ **Aurora** — A repeatable learning workflow across papers, repositories, and technology news.
+- 🧪 **CPP-Predictions** — Deep-learning experiments for cyclic peptide permeability classification and regression.
+
+## What I'm Building Toward
+
+- **Local-first AI** — Systems that run privately, cheaply, and reproducibly on developer hardware.
+- **Safer agents** — Better observability, guardrails, and evaluation loops for tool-using AI systems.
+- **Inspectable infrastructure** — Small tools that make AI workflows easier to debug, govern, and trust.
+- **Research engineering** — Reliable paths from papers and experiments to tested, usable software.
