@@ -1,7 +1,5 @@
 # Hi, I'm Kenny
 
-I build local-first AI infrastructure, agent safety tools, and research systems that are inspectable, reproducible, and useful outside a demo.
-
 **Local-first AI** | **Coding agents** | **Developer tooling** | **Machine learning** | **Research engineering**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -12,8 +10,6 @@ I build local-first AI infrastructure, agent safety tools, and research systems 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-> Small, testable tools for understanding, steering, and evaluating AI systems.
-
 📫 **Contact:** [guokenny7@gmail.com](mailto:guokenny7@gmail.com)
 
 ## Current Projects
@@ -23,13 +19,6 @@ I build local-first AI infrastructure, agent safety tools, and research systems 
 - 📦 **[TraceBox](https://github.com/kenny2077/TraceBox)** — Private flight recorder for AI coding agents that captures tool calls, file changes, policy decisions, and network activity in a local SQLite ledger.
 - 🌊 **[RippleGraph](https://github.com/kenny2077/RippleGraph)** — Deterministic edit-risk analysis that briefs Claude Code and Codex on affected callers and tests before they modify TypeScript or JavaScript files.
 - 🧪 **[CPP-Predictions](https://github.com/kenny2077/CPP-Predictions)** — Machine-learning research comparing Transformer, CNN, GCN, and Graphormer approaches for cyclic peptide permeability prediction.
-
-## Recent Focus
-
-- **Local-first AI systems** — Private inference, offline-capable workflows, user-owned data, and deterministic fallbacks.
-- **Agent observability and safety** — Audit trails, policy decisions, secret redaction, rollback planning, and edit-risk analysis.
-- **Reproducible software** — Strong test suites, release gates, GitHub Actions, health checks, and evidence-backed evaluation.
-- **Research engineering** — Practical bridges between datasets, experiments, benchmarks, and usable software.
 
 ## Project Map
 
