@@ -11,6 +11,7 @@
 
 ## Aurora Survival — On-Device Offline Survival Assistant
 
+- 📱 **[Aurora-Survival](https://github.com/kenny2077/Aurora-Survival)** — Flagship fully-offline iPhone & iPad survival app: on-device LLM, a reviewed field manual, signed offline maps, and CoreML species ID · [survival.auroraforgelab.com](https://survival.auroraforgelab.com/)
 - 🐦 **[aurora-species-BioCLIP](https://github.com/kenny2077/aurora-species-BioCLIP)** — On-device wildlife species ID — BioCLIP-2 → Core ML, 504 species, one forward pass (92.9% top-1)
 - 🧠 **[aurora-survival-lora](https://github.com/kenny2077/aurora-survival-lora)** — LoRA fine-tuning experiment for a 2B survival expert with 5-cycle controlled benchmarks
 
