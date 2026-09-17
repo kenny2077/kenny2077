@@ -26,7 +26,7 @@ Components:
 
 ## Research & Learning
 
-- 🛰️ **[Aurora](https://github.com/kenny2077/Aurora)** — Self-hosted daily learning radar that turns tech news, GitHub repos, and research papers into a focused email and GitHub Pages digest
+- 🛰️ **[Aurora-Digest](https://github.com/kenny2077/Aurora)** — Self-hosted daily learning radar that turns tech news, GitHub repos, and research papers into a focused email and GitHub Pages digest
 - 🧬 **[CPP-Predictions](https://github.com/kenny2077/CPP-Predictions)** — Machine-learning research comparing Transformer, CNN, GCN, and Graphormer approaches for cyclic peptide permeability prediction
 
 ## What I'm Building Toward
