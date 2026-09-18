@@ -20,7 +20,7 @@
 
 ### Aurora Forge — AI-Assisted Interview Daily Practice
 
-- 🎯 **[Aurora-Forge](https://github.com/kenny2077/forge-range)** — The coding interview is shifting from LeetCode recall to AI-assisted judgment; this is the training range for it — 35 runnable days, each a failing test suite you make pass with AI, plus a spoiler-free interactive mock · [Forge](https://kenny2077.github.io/forge-range/)
+- 🎯 **[Aurora-Forge](https://github.com/kenny2077/Aurora-Forge)** — The coding interview is shifting from LeetCode recall to AI-assisted judgment; this is the training range for it — 35 runnable days, each a failing test suite you make pass with AI, plus a spoiler-free interactive mock · [Forge](https://kenny2077.github.io/Aurora-Forge/)
 
 ## DeepSeek Harness Ecosystem
 
