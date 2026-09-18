@@ -17,7 +17,7 @@
 
 ### Aurora Digest — Self-Hosted Learning Radar
 
-- 🛰️ **[Aurora-Digest](https://github.com/kenny2077/Aurora)** — Self-hosted daily learning radar that turns tech news, GitHub repos, and research papers into a focused email and GitHub Pages digest [Digest](kenny2077.github.io/Aurora-Digest/) 
+- 🛰️ **[Aurora-Digest](https://github.com/kenny2077/Aurora)** — Self-hosted daily learning radar that turns tech news, GitHub repos, and research papers into a focused email and GitHub Pages digest · [Digest](kenny2077.github.io/Aurora-Digest/) 
 
 ### Aurora Forge — AI-Assisted Interview Training Range
 
