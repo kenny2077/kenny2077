@@ -40,4 +40,4 @@
 
 ---
 
-📫 **Contact:** [guokenny7@gmail.com](mailto:guokenny7@gmail.com)
+📫 **Contact:** [guokenny7@gmail.com](mailto:guokenny7@gmail.com) [Aurora Forge Lab](https://auroraforgelab.com/)
