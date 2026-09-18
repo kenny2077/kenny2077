@@ -9,7 +9,7 @@
 ![Core ML](https://img.shields.io/badge/Core_ML-000000?style=flat-square&logo=apple&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-## Aurora Forge Lab — local-first AI 
+## Aurora Forge Lab
 
 ### Aurora Survival — On-Device Offline Survival Assistant
 
