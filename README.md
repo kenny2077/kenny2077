@@ -1,6 +1,6 @@
 # Hi, I'm Kenny
 
-**Local-first AI** · **Coding agents** · **Developer tooling** · **Machine learning** · **Research engineering**
+**Local-first AI** · **Coding agents** ·  **Research engineering**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
