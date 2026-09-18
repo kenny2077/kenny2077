@@ -15,11 +15,10 @@
 
 - 📱 **[Aurora-Survival](https://github.com/kenny2077/Aurora-Survival)** — Flagship fully-offline iPhone & iPad survival app: on-device LLM, a reviewed field manual, signed offline maps, and CoreML species ID · [iOS Survival](https://survival.auroraforgelab.com/)
 
-### Aurora Digest — Self-Hosted Learning Radar
-
+### Aurora Digest — Self-Hosted Research Daily Digest
 - 🛰️ **[Aurora-Digest](https://github.com/kenny2077/Aurora)** — Self-hosted daily learning radar that turns tech news, GitHub repos, and research papers into a focused email and GitHub Pages digest · [Digest](kenny2077.github.io/Aurora-Digest/) 
 
-### Aurora Forge — AI-Assisted Interview Training Range
+### Aurora Forge — AI-Assisted Interview Daily Practice
 
 - 🎯 **[Aurora-Forge](https://github.com/kenny2077/forge-range)** — The coding interview is shifting from LeetCode recall to AI-assisted judgment; this is the training range for it — 35 runnable days, each a failing test suite you make pass with AI, plus a spoiler-free interactive mock · [Forge](https://kenny2077.github.io/forge-range/)
 
