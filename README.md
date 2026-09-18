@@ -26,6 +26,7 @@ Components:
 
 ## Research & Learning
 
+- 🎯 **[Forge Range](https://github.com/kenny2077/forge-range)** — The coding interview is shifting from LeetCode recall to AI-assisted judgment; this is the training range for it — 35 runnable days, each a failing test suite you make pass with AI, plus a spoiler-free interactive mock · [live site](https://kenny2077.github.io/forge-range/)
 - 🛰️ **[Aurora-Digest](https://github.com/kenny2077/Aurora)** — Self-hosted daily learning radar that turns tech news, GitHub repos, and research papers into a focused email and GitHub Pages digest
 - 🧬 **[CPP-Predictions](https://github.com/kenny2077/CPP-Predictions)** — Machine-learning research comparing Transformer, CNN, GCN, and Graphormer approaches for cyclic peptide permeability prediction
 
