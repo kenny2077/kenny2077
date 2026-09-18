@@ -9,7 +9,11 @@
 ![Core ML](https://img.shields.io/badge/Core_ML-000000?style=flat-square&logo=apple&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-## Aurora Survival — On-Device Offline Survival Assistant
+## Aurora Series — local-first, on-device AI
+
+Aurora Forge Lab's line of systems that run privately, offline, on hardware you own.
+
+### Aurora Survival — On-Device Offline Survival Assistant
 
 📱 **[Aurora-Survival](https://github.com/kenny2077/Aurora-Survival)** — Flagship fully-offline iPhone & iPad survival app: on-device LLM, a reviewed field manual, signed offline maps, and CoreML species ID · [survival.auroraforgelab.com](https://survival.auroraforgelab.com/)
 
@@ -17,6 +21,14 @@ Components:
 
 - 🐦 **[Aurora-species-BioCLIP](https://github.com/kenny2077/aurora-species-BioCLIP)** — On-device wildlife species ID — BioCLIP-2 → Core ML, 504 species, one forward pass (92.9% top-1)
 - 🧠 **[Aurora-survival-LoRA](https://github.com/kenny2077/aurora-survival-lora)** — LoRA fine-tuning experiment for a 2B survival expert with 5-cycle controlled benchmarks
+
+### Aurora Digest — Self-Hosted Learning Radar
+
+🛰️ **[Aurora-Digest](https://github.com/kenny2077/Aurora)** — Self-hosted daily learning radar that turns tech news, GitHub repos, and research papers into a focused email and GitHub Pages digest
+
+### Aurora Forge — AI-Assisted Interview Training Range
+
+🎯 **[Aurora-Forge](https://github.com/kenny2077/forge-range)** — The coding interview is shifting from LeetCode recall to AI-assisted judgment; this is the training range for it — 35 runnable days, each a failing test suite you make pass with AI, plus a spoiler-free interactive mock · [live site](https://kenny2077.github.io/forge-range/)
 
 ## DeepSeek Harness Ecosystem
 
@@ -26,8 +38,6 @@ Components:
 
 ## Research & Learning
 
-- 🎯 **[Aurora-Forge](https://github.com/kenny2077/forge-range)** — The coding interview is shifting from LeetCode recall to AI-assisted judgment; this is the training range for it — 35 runnable days, each a failing test suite you make pass with AI, plus a spoiler-free interactive mock · [live site](https://kenny2077.github.io/forge-range/)
-- 🛰️ **[Aurora-Digest](https://github.com/kenny2077/Aurora)** — Self-hosted daily learning radar that turns tech news, GitHub repos, and research papers into a focused email and GitHub Pages digest
 - 🧬 **[CPP-Predictions](https://github.com/kenny2077/CPP-Predictions)** — Machine-learning research comparing Transformer, CNN, GCN, and Graphormer approaches for cyclic peptide permeability prediction
 
 ## What I'm Building Toward
