@@ -13,15 +13,15 @@
 
 ### Aurora Survival — On-Device Offline Survival Assistant
 
-📱 **[Aurora-Survival](https://github.com/kenny2077/Aurora-Survival)** — Flagship fully-offline iPhone & iPad survival app: on-device LLM, a reviewed field manual, signed offline maps, and CoreML species ID · [survival.auroraforgelab.com](https://survival.auroraforgelab.com/)
+- 📱 **[Aurora-Survival](https://github.com/kenny2077/Aurora-Survival)** — Flagship fully-offline iPhone & iPad survival app: on-device LLM, a reviewed field manual, signed offline maps, and CoreML species ID · [survival.auroraforgelab.com](https://survival.auroraforgelab.com/)
 
 ### Aurora Digest — Self-Hosted Learning Radar
 
-🛰️ **[Aurora-Digest](https://github.com/kenny2077/Aurora)** — Self-hosted daily learning radar that turns tech news, GitHub repos, and research papers into a focused email and GitHub Pages digest
+- 🛰️ **[Aurora-Digest](https://github.com/kenny2077/Aurora)** — Self-hosted daily learning radar that turns tech news, GitHub repos, and research papers into a focused email and GitHub Pages digest
 
 ### Aurora Forge — AI-Assisted Interview Training Range
 
-🎯 **[Aurora-Forge](https://github.com/kenny2077/forge-range)** — The coding interview is shifting from LeetCode recall to AI-assisted judgment; this is the training range for it — 35 runnable days, each a failing test suite you make pass with AI, plus a spoiler-free interactive mock · [live site](https://kenny2077.github.io/forge-range/)
+- 🎯 **[Aurora-Forge](https://github.com/kenny2077/forge-range)** — The coding interview is shifting from LeetCode recall to AI-assisted judgment; this is the training range for it — 35 runnable days, each a failing test suite you make pass with AI, plus a spoiler-free interactive mock · [live site](https://kenny2077.github.io/forge-range/)
 
 ## DeepSeek Harness Ecosystem
 
