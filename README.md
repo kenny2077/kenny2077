@@ -9,7 +9,9 @@
 ![Core ML](https://img.shields.io/badge/Core_ML-000000?style=flat-square&logo=apple&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-## Aurora Forge Lab
+## <img src="assets/forge-icon.svg" alt="" width="44" height="24"> Aurora Forge Lab
+
+[![Aurora Forge pixel-art banner](https://raw.githubusercontent.com/kenny2077/Aurora-Forge/main/assets/banner.svg)](https://kenny2077.github.io/Aurora-Forge/)
 
 ### Aurora Forge — AI-Assisted Interview Daily Practice
 
