@@ -1,5 +1,3 @@
-# Hi, I'm Kenny
-
 **Local-first AI** · **Coding agents** ·  **Research engineering**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
