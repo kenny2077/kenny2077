@@ -31,6 +31,8 @@
 
 ## Research & Learning
 
+- 🧭 **[Harness-Atlas](https://github.com/kenny2077/Harness-Atlas)** — Interactive, source-backed architecture lab comparing ZCode, DeepSeek Harness, Codex, and Google AX · [Explore the Atlas](https://kenny2077.github.io/agent-harness-atlas/)
+- 📅 **[Awesome-calendar-skill](https://github.com/kenny2077/Awesome-calendar-skill)** — Turns syllabi and course schedules into a self-contained, interactive semester calendar that works offline · [Live demo](https://kenny2077.github.io/Awesome-calendar-skill/)
 - 🧬 **[CPP-Predictions](https://github.com/kenny2077/CPP-Predictions)** — Machine-learning research comparing Transformer, CNN, GCN, and Graphormer approaches for cyclic peptide permeability prediction
 
 ## What I'm Building Toward
@@ -38,7 +40,3 @@
 - **Local-first AI** — Systems that run privately, cheaply, and reproducibly on developer hardware.
 - **Safer agents** — Better observability, guardrails, and evaluation loops for tool-using AI systems.
 - **Research engineering** — Reliable paths from papers and experiments to tested, usable software.
-
----
-
-📫 **Contact:** [guokenny7@gmail.com](mailto:guokenny7@gmail.com)  ·  [Aurora Forge Lab](https://auroraforgelab.com/)
