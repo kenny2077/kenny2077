@@ -7,8 +7,9 @@
 ![Core ML](https://img.shields.io/badge/Core_ML-000000?style=flat-square&logo=apple&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-## Aurora Forge Lab
+## [Aurora Forge Lab](https://auroraforgelab.com/)
 
+A small product studio building practical, private AI tools · [auroraforgelab.com](https://auroraforgelab.com/)
 
 ### Aurora Forge — AI-Assisted Interview Daily Practice
 
@@ -18,9 +19,9 @@
 
 - 📱 **[Aurora-Survival](https://github.com/kenny2077/Aurora-Survival)** — Flagship fully-offline iPhone & iPad survival app: on-device LLM, a reviewed field manual, signed offline maps, and CoreML species ID · [iOS Survival](https://survival.auroraforgelab.com/)
 
-### Aurora Digest — Self-Hosted Research Daily Digest
-- 🛰️ **[Aurora-Digest](https://github.com/kenny2077/Aurora)** — Self-hosted daily learning radar that turns tech news, GitHub repos, and research papers into a focused email and GitHub Pages digest · [Digest](kenny2077.github.io/Aurora-Digest/) 
+### Aurora Newsletter — Self-Hosted AI Learning Radar
 
+- 🛰️ **[Aurora-Newsletter](https://github.com/kenny2077/Aurora-Newsletter)** — Self-hosted daily learning radar that turns tech news, GitHub repos, and research papers into one focused email and web briefing · [Newsletter](https://kenny2077.github.io/Aurora-Newsletter/)
 
 ## DeepSeek Harness Ecosystem
 
@@ -30,7 +31,7 @@
 
 ## Research & Learning
 
-- 🧭 **[Harness-Atlas](https://github.com/kenny2077/Harness-Atlas)** — Interactive, source-backed architecture lab comparing ZCode, DeepSeek Harness, Codex, and Google AX · [Explore the Atlas](https://kenny2077.github.io/agent-harness-atlas/)
+- 🧭 **[Harness-Atlas](https://github.com/kenny2077/Harness-Atlas)** — Interactive, source-backed architecture lab comparing ZCode, DeepSeek Harness, Codex, and Google AX · [Explore the Atlas](https://kenny2077.github.io/Harness-Atlas/)
 - 📅 **[Awesome-calendar-skill](https://github.com/kenny2077/Awesome-calendar-skill)** — Turns syllabi and course schedules into a self-contained, interactive semester calendar that works offline · [Live demo](https://kenny2077.github.io/Awesome-calendar-skill/)
 - 🧬 **[CPP-Predictions](https://github.com/kenny2077/CPP-Predictions)** — Machine-learning research comparing Transformer, CNN, GCN, and Graphormer approaches for cyclic peptide permeability prediction
 
