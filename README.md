@@ -22,6 +22,14 @@ A small product studio building practical, private AI tools · [auroraforgelab.c
 ### Aurora Newsletter — Self-Hosted AI Learning Radar
 
 - 🛰️ **[Aurora-Newsletter](https://github.com/kenny2077/Aurora-Newsletter)** — Self-hosted daily learning radar that turns tech news, GitHub repos, and research papers into one focused email and web briefing · [Newsletter](https://kenny2077.github.io/Aurora-Newsletter/)
+### Pixel Web — Any Website, in Pixels
+
+- 🕹️ **[Pixel-Web](https://github.com/kenny2077/Pixel-Web)** — Turns any public website into a full-page, clickable pixel-style preview that keeps layout, images and working controls, with no AI calls · [Demo](https://pixel-web-803742923007.us-central1.run.app/)
+
+### Gopher Calendar — Your Semester on One Page
+
+- 🗓️ **[Gopher-Calendar](https://github.com/kenny2077/Gopher-Calendar)** — Chrome extension that syncs UMN Canvas and MyU into one semester calendar with a weekly workload view; no account, no server · [Live demo](https://kenny2077.github.io/Gopher-Calendar/)
+
 
 ## DeepSeek Harness Ecosystem
 
