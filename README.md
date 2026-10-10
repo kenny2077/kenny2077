@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/black-hole.gif" width="100%" alt="An animated black hole drawn in ASCII dots: a thin blue-white ring around an empty shadow, its amber disk crossing in front and lensed into a halo above, with two small planets on the disk">
+</p>
+
 **Local-first AI** · **Coding agents** ·  **Research engineering**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
